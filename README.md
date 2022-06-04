@@ -1,6 +1,6 @@
 # Patricando-Responsividade<br/>
 Nesse projeto criei uma Landing page responsiva para praticar responsividade junto com flex-box.<br/>
-Segue o Link da página:<br/>
+Link do Projeto on-line:<br/>
 https://fernandopatrick.github.io/Patricando-Responsividade/
 <br/><br/>
 
